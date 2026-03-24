@@ -5,7 +5,7 @@
 
 
 
-**How To Download**
+**How To Install**
 
 1. Go to the Releases page
 2. Download the latest **Setup.exe** and run it, OR
