@@ -1,6 +1,7 @@
-##### **Download Youtube Video 😀👍**
+#### **Download Youtube Video 😀👍**
 
 ###### A simple Windows tool designed for beginners like myself for downloading videos and audio from YouTube and other sites.
+###### This is pretty much just yt-dlp and ffmpeg along with the code to allow beginners to use yt-dlp
 
 
 
